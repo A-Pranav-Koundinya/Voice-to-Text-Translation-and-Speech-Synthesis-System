@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project is a **Voice-to-Text Translation and Speech Synthesis System** designed to enable real-time language translation and spoken feedback. It converts spoken input into text, detects the language, translates the text to a target language, and then generates speech for translated text. This system provides a seamless experience for users, supporting multiple languages, particularly focusing on Indian languages.
+This project is **Voice-to-Text Translation and Speech Synthesis System** designed to enable real-time language translation and spoken feedback. It converts spoken input into text, detects the language, translates the text to a target language, and then generates speech for translated text. This system provides a seamless experience for users, supporting multiple languages, particularly focusing on Indian languages.
 
 ### Key Features
 
